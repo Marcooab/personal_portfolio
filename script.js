@@ -16,13 +16,13 @@ $(document).ready(function(){
      });
 
      var typed = new Typed(".typing", {
-         strings:[ "FrontEnd Developer", "Desenvolvedor Web", "Estudante de Análise e Desenvolvimento de Sistemas"],
+         strings:[ "Desenvolvedor FrontEnd Jr", "Desenvolvedor Web", "Estudante de Análise e Desenvolvimento de Sistemas"],
          typeSpeed:100,
          backSpeed:60,
          loop:true
      });
      var typed = new Typed(".typing-2", {
-        strings:["FrontEnd Developer", "Desenvolvedor Web", "Estudante de Análise e Desenvolvimento de Sistemas"],
+        strings:["Desenvolvedor FrontEnd Jr", "Desenvolvedor Web", "Estudante de Análise e Desenvolvimento de Sistemas"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
