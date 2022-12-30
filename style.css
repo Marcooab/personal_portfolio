@@ -24,8 +24,8 @@ html{
 }
 
 .flags{
-    height: 15px; 
-    width: 15px; 
+    height: 10px; 
+    width: 10px; 
     border-radius: 50%;
 }
 .navbar.sticky{
@@ -60,6 +60,7 @@ html{
     margin-left: 25px;
     transition: color 0.3s ease;
 }
+
 .navbar .menu li a:hover{
     color: #514D73;
 }
