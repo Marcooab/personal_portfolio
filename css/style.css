@@ -70,7 +70,7 @@ html{
 /*  HOME */
 .home{
     display: flex;
-    background: url(image/fundo.jpeg) no-repeat;
+    background: url(../image/fundo.jpeg) no-repeat;
     background-size: cover;
     height: 100vh;
     color: #fff;
